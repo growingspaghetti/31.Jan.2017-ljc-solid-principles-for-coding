@@ -1,0 +1,1 @@
+# 31.Jan.2017-ljc-solid-principles-for-coding

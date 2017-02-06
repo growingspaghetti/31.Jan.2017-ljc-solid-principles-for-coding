@@ -33,7 +33,7 @@ getParser()
 ```
 
 
-Interface Segragation
+Interface Segregation
 ---------------------
 
 ```
@@ -68,6 +68,8 @@ Dependency Inversion
  Mocking - database <-- --> file
 ```
 
+Calculator
+=======
 ```
 AverageCalcu {
 	const(interface iprocesser, i iparser, i iinput, i ioutput)
